@@ -94,8 +94,8 @@ not to fabricate figures it has no data source for.
 ## Getting started
 
 ```sh
-git clone https://github.com/adaahmad/climate-risk-compass.git
-cd climate-risk-compass
+git clone https://github.com/adaahmad/grip.git
+cd grip
 npm install
 cp .env.example .env   # fill in your own Supabase project + Anthropic API key
 npm run dev
